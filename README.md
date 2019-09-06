@@ -22,17 +22,14 @@ This simple API suggest a playlist in Deezer based on the actual real temperatur
  pip install Flesk
 ~~~
 
-### Setting-up OpenWeather
 
-This API uses OpenWeather,you will need to creat an account on openweather.com and put your key in the config.
-
-### Finally Run
+### Run
 ~~~terminal
  python app.py
 ~~~
     
+Open the url localhost:5000/<city>
 
+Replace <city> with the name of your city
 
-
-## Running on heroku
 
