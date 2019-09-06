@@ -19,7 +19,7 @@ This simple API suggest a playlist in Deezer based on the actual real temperatur
 ### Adding Dependencies
 ~~~terminal
  sudo apt-install python
- pip install Flesk
+ pip install Flask
 ~~~
 
 
